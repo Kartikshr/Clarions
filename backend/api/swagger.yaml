@@ -1,8 +1,8 @@
 swagger: '2.0'
 
 info:
-    title: MiroTalk C2C API
-    description: API description for external applications that integrates with MiroTalk C2C.
+    title: Clarions API
+    description: API description for external applications that integrates with Clarions.
     version: 1.0.0
 
 basePath: /api/v1

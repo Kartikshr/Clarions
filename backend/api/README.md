@@ -2,7 +2,7 @@
 
 ## Create a Meeting
 
-To initiate a meeting, send an HTTP request to MiroTalk’s server with your API key. Replace the default secret key in `.env` with your own.
+To initiate a meeting, send an HTTP request to Clarions’s server with your API key. Replace the default secret key in `.env` with your own.
 
 ```bash
 API_KEY_SECRET=mirotalkc2c_default_secret
