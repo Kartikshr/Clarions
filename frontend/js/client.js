@@ -58,7 +58,7 @@ const chatEmoji = document.getElementById('chatEmoji');
 
 let chatMessages = []; // collect chat messages to save it later
 
-const roomURL = window.location.origin + '/?room=' + roomId;
+const roomURL = window.location.origin + '/home.html?room=' + roomId;
 
 const LS = new LocalStorage();
 
